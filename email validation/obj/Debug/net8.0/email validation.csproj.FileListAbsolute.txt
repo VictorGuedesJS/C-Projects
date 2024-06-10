@@ -1,0 +1,14 @@
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\bin\Debug\net8.0\email validation.exe
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\bin\Debug\net8.0\email validation.deps.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\bin\Debug\net8.0\email validation.runtimeconfig.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\bin\Debug\net8.0\email validation.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\bin\Debug\net8.0\email validation.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\obj\Debug\net8.0\email validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\obj\Debug\net8.0\email validation.AssemblyInfoInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\obj\Debug\net8.0\email validation.AssemblyInfo.cs
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\obj\Debug\net8.0\email validation.csproj.CoreCompileInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\obj\Debug\net8.0\email validation.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\obj\Debug\net8.0\refint\email validation.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\obj\Debug\net8.0\email validation.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\obj\Debug\net8.0\email validation.genruntimeconfig.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\email validation\obj\Debug\net8.0\ref\email validation.dll

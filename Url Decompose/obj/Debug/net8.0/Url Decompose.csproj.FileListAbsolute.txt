@@ -1,0 +1,15 @@
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\bin\Debug\net8.0\Url Decompose.exe
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\bin\Debug\net8.0\Url Decompose.deps.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\bin\Debug\net8.0\Url Decompose.runtimeconfig.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\bin\Debug\net8.0\Url Decompose.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\bin\Debug\net8.0\Url Decompose.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\obj\Debug\net8.0\Url Decompose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\obj\Debug\net8.0\Url Decompose.AssemblyInfoInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\obj\Debug\net8.0\Url Decompose.AssemblyInfo.cs
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\obj\Debug\net8.0\Url Decompose.csproj.CoreCompileInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\obj\Debug\net8.0\Url Decompose.sourcelink.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\obj\Debug\net8.0\Url Decompose.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\obj\Debug\net8.0\refint\Url Decompose.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\obj\Debug\net8.0\Url Decompose.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\obj\Debug\net8.0\Url Decompose.genruntimeconfig.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Url Decompose\obj\Debug\net8.0\ref\Url Decompose.dll

@@ -1,0 +1,15 @@
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\bin\Debug\net8.0\Movie Night.exe
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\bin\Debug\net8.0\Movie Night.deps.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\bin\Debug\net8.0\Movie Night.runtimeconfig.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\bin\Debug\net8.0\Movie Night.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\bin\Debug\net8.0\Movie Night.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\obj\Debug\net8.0\Movie Night.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\obj\Debug\net8.0\Movie Night.AssemblyInfoInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\obj\Debug\net8.0\Movie Night.AssemblyInfo.cs
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\obj\Debug\net8.0\Movie Night.csproj.CoreCompileInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\obj\Debug\net8.0\Movie Night.sourcelink.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\obj\Debug\net8.0\Movie Night.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\obj\Debug\net8.0\refint\Movie Night.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\obj\Debug\net8.0\Movie Night.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\obj\Debug\net8.0\Movie Night.genruntimeconfig.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Movie Night\obj\Debug\net8.0\ref\Movie Night.dll

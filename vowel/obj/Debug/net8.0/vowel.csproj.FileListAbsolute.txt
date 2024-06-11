@@ -1,0 +1,15 @@
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\bin\Debug\net8.0\vowel.exe
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\bin\Debug\net8.0\vowel.deps.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\bin\Debug\net8.0\vowel.runtimeconfig.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\bin\Debug\net8.0\vowel.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\bin\Debug\net8.0\vowel.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\obj\Debug\net8.0\vowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\obj\Debug\net8.0\vowel.AssemblyInfoInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\obj\Debug\net8.0\vowel.AssemblyInfo.cs
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\obj\Debug\net8.0\vowel.csproj.CoreCompileInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\obj\Debug\net8.0\vowel.sourcelink.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\obj\Debug\net8.0\vowel.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\obj\Debug\net8.0\refint\vowel.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\obj\Debug\net8.0\vowel.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\obj\Debug\net8.0\vowel.genruntimeconfig.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\vowel\obj\Debug\net8.0\ref\vowel.dll

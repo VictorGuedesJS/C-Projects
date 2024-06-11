@@ -1,0 +1,15 @@
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\bin\Debug\net8.0\point score.exe
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\bin\Debug\net8.0\point score.deps.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\bin\Debug\net8.0\point score.runtimeconfig.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\bin\Debug\net8.0\point score.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\bin\Debug\net8.0\point score.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\obj\Debug\net8.0\point score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\obj\Debug\net8.0\point score.AssemblyInfoInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\obj\Debug\net8.0\point score.AssemblyInfo.cs
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\obj\Debug\net8.0\point score.csproj.CoreCompileInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\obj\Debug\net8.0\point score.sourcelink.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\obj\Debug\net8.0\point score.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\obj\Debug\net8.0\refint\point score.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\obj\Debug\net8.0\point score.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\obj\Debug\net8.0\point score.genruntimeconfig.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\point score\obj\Debug\net8.0\ref\point score.dll

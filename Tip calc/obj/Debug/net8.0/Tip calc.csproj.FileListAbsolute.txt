@@ -1,0 +1,15 @@
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\bin\Debug\net8.0\Tip calc.exe
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\bin\Debug\net8.0\Tip calc.deps.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\bin\Debug\net8.0\Tip calc.runtimeconfig.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\bin\Debug\net8.0\Tip calc.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\bin\Debug\net8.0\Tip calc.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\obj\Debug\net8.0\Tip calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\obj\Debug\net8.0\Tip calc.AssemblyInfoInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\obj\Debug\net8.0\Tip calc.AssemblyInfo.cs
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\obj\Debug\net8.0\Tip calc.csproj.CoreCompileInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\obj\Debug\net8.0\Tip calc.sourcelink.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\obj\Debug\net8.0\Tip calc.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\obj\Debug\net8.0\refint\Tip calc.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\obj\Debug\net8.0\Tip calc.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\obj\Debug\net8.0\Tip calc.genruntimeconfig.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Tip calc\obj\Debug\net8.0\ref\Tip calc.dll

@@ -1,0 +1,15 @@
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\bin\Debug\net8.0\Words of Afirmations.exe
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\bin\Debug\net8.0\Words of Afirmations.deps.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\bin\Debug\net8.0\Words of Afirmations.runtimeconfig.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\bin\Debug\net8.0\Words of Afirmations.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\bin\Debug\net8.0\Words of Afirmations.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\obj\Debug\net8.0\Words of Afirmations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\obj\Debug\net8.0\Words of Afirmations.AssemblyInfoInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\obj\Debug\net8.0\Words of Afirmations.AssemblyInfo.cs
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\obj\Debug\net8.0\Words of Afirmations.csproj.CoreCompileInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\obj\Debug\net8.0\Words of Afirmations.sourcelink.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\obj\Debug\net8.0\Words of Afirmations.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\obj\Debug\net8.0\refint\Words of Afirmations.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\obj\Debug\net8.0\Words of Afirmations.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\obj\Debug\net8.0\Words of Afirmations.genruntimeconfig.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Words of Afirmations\obj\Debug\net8.0\ref\Words of Afirmations.dll

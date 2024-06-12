@@ -1,0 +1,15 @@
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\bin\Debug\net8.0\RSPV.exe
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\bin\Debug\net8.0\RSPV.deps.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\bin\Debug\net8.0\RSPV.runtimeconfig.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\bin\Debug\net8.0\RSPV.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\bin\Debug\net8.0\RSPV.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\obj\Debug\net8.0\RSPV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\obj\Debug\net8.0\RSPV.AssemblyInfoInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\obj\Debug\net8.0\RSPV.AssemblyInfo.cs
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\obj\Debug\net8.0\RSPV.csproj.CoreCompileInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\obj\Debug\net8.0\RSPV.sourcelink.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\obj\Debug\net8.0\RSPV.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\obj\Debug\net8.0\refint\RSPV.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\obj\Debug\net8.0\RSPV.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\obj\Debug\net8.0\RSPV.genruntimeconfig.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\RSPV\obj\Debug\net8.0\ref\RSPV.dll

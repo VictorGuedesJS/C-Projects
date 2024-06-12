@@ -1,0 +1,15 @@
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\bin\Debug\net8.0\Fibonacci sequence.exe
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\bin\Debug\net8.0\Fibonacci sequence.deps.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\bin\Debug\net8.0\Fibonacci sequence.runtimeconfig.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\bin\Debug\net8.0\Fibonacci sequence.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\bin\Debug\net8.0\Fibonacci sequence.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\obj\Debug\net8.0\Fibonacci sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\obj\Debug\net8.0\Fibonacci sequence.AssemblyInfoInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\obj\Debug\net8.0\Fibonacci sequence.AssemblyInfo.cs
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\obj\Debug\net8.0\Fibonacci sequence.csproj.CoreCompileInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\obj\Debug\net8.0\Fibonacci sequence.sourcelink.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\obj\Debug\net8.0\Fibonacci sequence.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\obj\Debug\net8.0\refint\Fibonacci sequence.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\obj\Debug\net8.0\Fibonacci sequence.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\obj\Debug\net8.0\Fibonacci sequence.genruntimeconfig.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Fibonacci sequence\obj\Debug\net8.0\ref\Fibonacci sequence.dll

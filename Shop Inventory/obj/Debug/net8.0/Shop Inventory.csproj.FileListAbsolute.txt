@@ -1,0 +1,15 @@
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\bin\Debug\net8.0\Shop Inventory.exe
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\bin\Debug\net8.0\Shop Inventory.deps.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\bin\Debug\net8.0\Shop Inventory.runtimeconfig.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\bin\Debug\net8.0\Shop Inventory.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\bin\Debug\net8.0\Shop Inventory.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\obj\Debug\net8.0\Shop Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\obj\Debug\net8.0\Shop Inventory.AssemblyInfoInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\obj\Debug\net8.0\Shop Inventory.AssemblyInfo.cs
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\obj\Debug\net8.0\Shop Inventory.csproj.CoreCompileInputs.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\obj\Debug\net8.0\Shop Inventory.sourcelink.json
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\obj\Debug\net8.0\Shop Inventory.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\obj\Debug\net8.0\refint\Shop Inventory.dll
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\obj\Debug\net8.0\Shop Inventory.pdb
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\obj\Debug\net8.0\Shop Inventory.genruntimeconfig.cache
+C:\Users\3623880\Downloads\Codiguinhos\C#\C-Projects\Shop Inventory\obj\Debug\net8.0\ref\Shop Inventory.dll
